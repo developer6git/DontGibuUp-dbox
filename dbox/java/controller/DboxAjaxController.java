@@ -118,8 +118,8 @@ public class DboxAjaxController {
 	//IamportClient 초기화 하기
 	private IamportClient impClient; 
 
-	private String apiKey = "1768802126155655";
-	private String secretKey = "7lbuqivNTuXgdJ0ELcC9KH7mo8ruzxAQz6i7NEw72bobO7JIPfH8I07YSYcQUmPypmQg0S3H9XxqM9wQ";
+	private String apiKey = "-";
+	private String secretKey = "-";
 
 	@PostConstruct
 	public void initImp() {
